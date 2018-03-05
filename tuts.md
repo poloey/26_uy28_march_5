@@ -1,0 +1,8 @@
+session_start();
+$_GET
+$_POST
+$_REQUEST
+$_SERVER
+$_FILES
+$GLOBALS
+$_SESSION
